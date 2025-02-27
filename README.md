@@ -1,7 +1,7 @@
 ## ✨ Google Cybersecurity Professional Certificate
 
 ### Overview
-This repository is dedicated to my journey through the **Google Cybersecurity Professional Certificate**. It includes my study notes, hands-on labs, key takeaways, and practical exercises as I develop foundational skills in cybersecurity.
+This repository is dedicated to my journey through the **Google Cybersecurity Professional Certificate**. Included are some of the hands-on-labs I worked on during the program.
 
 ### Course Topics & Key Learnings
 1. **Foundations of Cybersecurity**
